@@ -2,7 +2,7 @@
 
 # Aadhaar UID Masking Tool
 
-This project provides support of Extraction, Veriﬁcation and Masking of Aadhaar UIDs from photos and scanned documents. The solution to the problem involves use of PyTesseract a Optical Character Recognition engine and OpenCV for image processing. 
+This project provides support of Extraction, Veriﬁcation and Masking of Aadhaar UIDs from photos and scanned documents. The solution to the problem involves use of **PyTesseract** a Optical Character Recognition engine and **OpenCV** for image processing. 
 
 # Abstract
 Identity theft and scams are major concerns in today's digital world. Aadhaar cards, containing sensitive information like addresses, phone numbers, and even bank account links, are prime targets for fraudsters. To address this issue, we developed a **Convolutional Neural Network (CNN) model** that **partially masks the Aadhaar's Unique Identification (UID) number**. This approach, similar to redacting bank account numbers, safeguards personal and financial data while preserving document functionality.
