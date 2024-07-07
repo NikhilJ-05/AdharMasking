@@ -1,6 +1,6 @@
 
 
-# Aadhaar-UID-Masking-Tool
+# Aadhaar UID Masking Tool
 
 This project provides support of Extraction, Veriﬁcation and Masking of Aadhaar UIDs from photos and scanned documents. The solution to the problem involves use of PyTesseract a Optical Character Recognition engine and OpenCV for image processing. 
 
