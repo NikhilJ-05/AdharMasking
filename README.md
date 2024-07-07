@@ -11,7 +11,7 @@ Our model achieves an impressive **accuracy of 94.6%** for both training and val
 
 ## Example
 
-
+![example](Resources\abstract.png)
 
 # Main Features
 
